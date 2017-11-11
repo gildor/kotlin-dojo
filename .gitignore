@@ -4,6 +4,7 @@ target/
 build
 # IntelliJ IDEA
 .idea/*
+*.iml
 !.idea/runConfigurations/
 !.idea/codeStyleSettings.xml
 out/
